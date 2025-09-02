@@ -15,6 +15,9 @@ public class hello {
 	public static void main(String[] args) {
 		
 		System.out.println("Computer Science!");
+		
+		System.out.println("Luke Uhlir");
+		System.out.println("Computer Engineering");
 
 	}
 
